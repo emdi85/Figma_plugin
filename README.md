@@ -1,3 +1,7 @@
+## Contact us
+
+Support Gmail: emdi85.off@gmail.com
+
 # 🍱 Figma + FigJam Plugin Samples
 
 Sample plugins using the [Figma + FigJam Plugin API docs][docs].
