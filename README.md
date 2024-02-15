@@ -1,5 +1,6 @@
 ## Contact us
-Hi hasheemhush plese check: you can contack this
+Hi hasheemhush plese check: you can contack this:
+Don't send me message in freelancer about this result. Only Use Gamil. 
 Support Gmail: emdi85.off@gmail.com
 
 # 🍱 Figma + FigJam Plugin Samples
